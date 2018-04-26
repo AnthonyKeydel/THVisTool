@@ -14,7 +14,7 @@ Adapt:
 * enable or disable adaptive thresholding
   * 0 is normal thresholding
   * 1 is adaptive thresholding
-    * Adaptive thresholding only works with a TH_Type of 0 or 1
+    * **Adaptive thresholding only works with a TH_Type of 0 or 1**
 
 TH_Type:
 * Changes the type of thresholding
